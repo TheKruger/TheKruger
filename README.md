@@ -1,6 +1,6 @@
 # About me
 
-- 👋 I’m @TheKruger a 16 year old hungarian python and C/C++ developer. I start learning programing in 2019 just for fun and the programing just a hobby for me, but in the future I want to be in this field.
+- 👋 I’m @TheKruger a hungarian python and C/C++ programer. I start learning programing in 2019 just for fun and the programing just a hobby for me, but in the future I want to be in this field.
 - 👀 I’m interested to explore anything new and interesting things.
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate any open source repository.
